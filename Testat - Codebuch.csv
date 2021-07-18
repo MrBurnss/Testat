@@ -1,0 +1,17 @@
+CODEBUCH,
+,
+Wert,Kommentar
+,
+edgelist,
+from ,hier die id der Spielerinnen
+to,voriger Verein der jeweiligen Spielerin und ihr heimatland
+relation,"Beziehung der Spielerin zum Knoten (1=voriger Verein, 2=Heimatland)"
+,
+nodelist,
+id,"eindeutige Identifikation jedes Knotens, der erfasst wird"
+name,Name der Spielerin bzw. des Knotens
+type,"definiert den typ des jeweiligen Knotens (1=Spielerin, 2=Verein/Heimatland (Organisation))"
+birth,Geburtsjahr der Spielerinnen
+age,"Alter der Spielerinnen (1=20 und jünger, 2=21-23, 3=24-26, 4=27-30)"
+position,"Position der Spielerinnen (1=Mittelblock, 2=Zuspiel, 3=Außenangriff, 4=Diagonal, 5=Libera) "
+country,"Heimatland der Spielerinnen (1=Niederlande, 2=Bulgarien, 3=Deutschland, 4=Belgien, 5=Polen, 6=USA, 7=Spanien, 8=Finnland) "
